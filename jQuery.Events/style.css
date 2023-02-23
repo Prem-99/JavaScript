@@ -1,0 +1,7 @@
+div{
+    margin:10px;
+    border:2px solid black;
+    padding:6px;
+    width:5%;
+    cursor: pointer;
+}
